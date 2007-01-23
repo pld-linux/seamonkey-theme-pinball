@@ -1,19 +1,19 @@
+%define		_realname	pinball
+%define		_snap		2007-01-20_sea1.1
 Summary:	Great theme - it doesn't take much space
 Summary(pl):	Przepiêkny motyw - idealny kompromis pomiêdzy rozmiarem i czytelno¶ci±
 Name:		seamonkey-theme-pinball
-%define		_realname	pinball
-Version:	2006.01.31
-%define		_snap		2006-01-31_sea1.0
+Version:	2007.01.20
 Release:	1
 License:	GPL
 Group:		X11/Applications/Networking
 Source0:	http://mozilla-themes.schellen.net/%{_realname}_%{_snap}.jar
-# Source0-md5:	d962651a00e062c0ce72bf031462b1e3
+# Source0-md5:	9cfdaf385bd3c6a05d4d5404410f85e7
 Source1:	gen-installed-chrome.sh
 URL:		http://mozilla-themes.schellen.net/
-Requires(post,postun):	seamonkey >= 1.0
+Requires(post,postun):	seamonkey >= 1.1
 Requires(post,postun):	textutils
-Requires:	seamonkey >= 1.0
+Requires:	seamonkey >= 1.1
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
