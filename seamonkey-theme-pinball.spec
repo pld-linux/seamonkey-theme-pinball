@@ -1,7 +1,7 @@
 %define		_realname	pinball
 %define		_snap		2007-01-20_sea1.1
 Summary:	Great theme - it doesn't take much space
-Summary(pl.UTF-8):   Przepiękny motyw - idealny kompromis pomiędzy rozmiarem i czytelnością
+Summary(pl.UTF-8):	Przepiękny motyw - idealny kompromis pomiędzy rozmiarem i czytelnością
 Name:		seamonkey-theme-pinball
 Version:	2007.01.20
 Release:	1
