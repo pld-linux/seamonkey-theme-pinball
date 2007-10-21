@@ -3,7 +3,7 @@
 Summary:	Great theme - it doesn't take much space
 Summary(pl.UTF-8):	Przepiękny motyw - idealny kompromis pomiędzy rozmiarem i czytelnością
 Name:		seamonkey-theme-pinball
-Version:	2007.01.20
+Version:	2007.02.02
 Release:	1
 License:	GPL
 Group:		X11/Applications/Networking
