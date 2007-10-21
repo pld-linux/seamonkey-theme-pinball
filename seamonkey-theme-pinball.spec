@@ -1,5 +1,5 @@
 %define		_realname	pinball
-%define		_snap		2007-01-20_sea1.1
+%define		_snap		2007-02-02_sea1.1
 Summary:	Great theme - it doesn't take much space
 Summary(pl.UTF-8):	Przepiękny motyw - idealny kompromis pomiędzy rozmiarem i czytelnością
 Name:		seamonkey-theme-pinball
@@ -8,7 +8,7 @@ Release:	1
 License:	GPL
 Group:		X11/Applications/Networking
 Source0:	http://mozilla-themes.schellen.net/%{_realname}_%{_snap}.jar
-# Source0-md5:	9cfdaf385bd3c6a05d4d5404410f85e7
+# Source0-md5:	4e7575cbb285d341c10e1ff9dacc7f96
 Source1:	gen-installed-chrome.sh
 URL:		http://mozilla-themes.schellen.net/
 Requires(post,postun):	seamonkey >= 1.1
